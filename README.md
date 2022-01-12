@@ -1,6 +1,6 @@
-# Dracula for [Warp](https://warp.com)
+# Dracula for [Warp](https://warp.dev)
 
-> A dark theme for [Warp](https://warp.com).
+> A dark theme for [Warp](https://warp.dev).
 
 ![Screenshot](./screenshot.png)
 

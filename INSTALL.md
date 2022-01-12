@@ -1,4 +1,4 @@
-### [Warp](https://www.warp.dev)
+### [Warp](https://warp.dev)
 
 #### Install using Git
 
